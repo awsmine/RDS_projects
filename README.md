@@ -8,3 +8,5 @@ A repo of all my RDS Projects
 3. Manage the RDS Database credentials using AWS Secret Manager and Monitor it thru CloudTrail https://dev.to/aws-builders/manage-the-rds-database-credentials-using-aws-secret-manager-and-monitor-it-thru-cloudtrail-4a5a
 
 4. Create RDS Database Snapshots https://dev.to/aws-builders/create-rds-database-snapshots-4nba
+
+5. How to Encrypt an Unencrypted RDS DB Instance https://dev.to/aws-builders/how-to-encrypt-an-unencrypted-rds-db-instance-262g
