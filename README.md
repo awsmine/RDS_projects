@@ -10,3 +10,5 @@ A repo of all my RDS Projects
 4. Create RDS Database Snapshots https://dev.to/aws-builders/create-rds-database-snapshots-4nba
 
 5. How to Encrypt an Unencrypted RDS DB Instance https://dev.to/aws-builders/how-to-encrypt-an-unencrypted-rds-db-instance-262g
+
+6. Create a Wordpress site Using EC2 and Amazon RDS https://dev.to/aws-builders/create-a-wordpress-site-using-ec2-and-amazon-rds-45n
