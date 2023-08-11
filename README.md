@@ -12,3 +12,5 @@ A repo of all my RDS Projects
 5. How to Encrypt an Unencrypted RDS DB Instance https://dev.to/aws-builders/how-to-encrypt-an-unencrypted-rds-db-instance-262g
 
 6. Create a Wordpress site Using EC2 and Amazon RDS https://dev.to/aws-builders/create-a-wordpress-site-using-ec2-and-amazon-rds-45n
+
+7. How to connect to AWS Secrets Manager service within a Virtual Private Cloud via VPC Endpoint https://dev.to/aws-builders/how-to-connect-to-aws-secrets-manager-service-within-a-virtual-private-cloud-1957
