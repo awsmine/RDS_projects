@@ -14,3 +14,5 @@ A repo of all my RDS Projects
 6. Create a Wordpress site Using EC2 and Amazon RDS https://dev.to/aws-builders/create-a-wordpress-site-using-ec2-and-amazon-rds-45n
 
 7. How to connect to AWS Secrets Manager service within a Virtual Private Cloud via VPC Endpoint https://dev.to/aws-builders/how-to-connect-to-aws-secrets-manager-service-within-a-virtual-private-cloud-1957
+
+8. Connecting to RDS MySQL DB instance without a password, using IAM authentication - 1 https://dev.to/aws-builders/connecting-to-rds-mysql-db-instance-without-a-password-using-iam-authentication-1-2b80
