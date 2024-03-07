@@ -20,3 +20,6 @@ A repo of all my RDS Projects
 9. Connecting to RDS MySQL DB instance without a password, using IAM authentication - 2 https://dev.to/awsmine/connecting-to-rds-mysql-db-instance-without-a-password-using-iam-authentication-2-28f0
 
 10. How to launch an RDS Cluster with Multi AZ Read Replica using Terraform ---> https://dev.to/aws-builders/how-to-launch-an-rds-cluster-with-multi-az-read-replica-using-terraform-2ca1
+
+11. How to scan thru Amazon RDS for SQLServer error logs using metric filters ---> https://dev.to/aws-builders/how-to-scan-thru-amazon-rds-for-sqlserver-error-logs-using-metric-filters-18ld
+
