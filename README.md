@@ -23,3 +23,6 @@ A repo of all my RDS Projects
 
 11. How to scan thru Amazon RDS for SQLServer error logs using metric filters ---> https://dev.to/aws-builders/how-to-scan-thru-amazon-rds-for-sqlserver-error-logs-using-metric-filters-18ld
 
+12. How to minimize your cloud spending on AWS resources using Systems Manager Automation documents ---> https://dev.to/aws-builders/how-to-minimize-your-cloud-spending-on-aws-resources-using-systems-manager-automation-documents-fjc
+    
+
