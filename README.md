@@ -24,5 +24,7 @@ A repo of all my RDS Projects
 11. How to scan thru Amazon RDS for SQLServer error logs using metric filters ---> https://dev.to/aws-builders/how-to-scan-thru-amazon-rds-for-sqlserver-error-logs-using-metric-filters-18ld
 
 12. How to minimize your cloud spending on AWS resources using Systems Manager Automation documents ---> https://dev.to/aws-builders/how-to-minimize-your-cloud-spending-on-aws-resources-using-systems-manager-automation-documents-fjc
+
+13. How to move an Amazon RDS DB instance from an Amazon Virtual Private Cloud (Amazon VPC) to a new VPC ---> https://dev.to/aws-builders/how-to-move-an-amazon-rds-db-instance-from-an-amazon-virtual-private-cloud-amazon-vpc-to-a-new-vpc-2gp2
     
 
